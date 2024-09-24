@@ -15,7 +15,7 @@
 ResolutionDistillation is an open-source library and is licensed under the [GNU General Public License (v3)](https://www.gnu.org/licenses/gpl-3.0.en.html). If you are using this library please cite:
 
 ```
-@article{DIPALMA2023100320,
+@article{histoperm,
 title = {HistoPerm: A permutation-based view generation approach for improving histopathologic feature representation learning},
 journal = {Journal of Pathology Informatics},
 volume = {14},
